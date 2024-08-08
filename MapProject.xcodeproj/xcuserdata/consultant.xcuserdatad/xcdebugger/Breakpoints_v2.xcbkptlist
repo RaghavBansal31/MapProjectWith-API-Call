@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "577315DD-CD4F-4F2B-BF3F-388CE93673E6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D57D205-43D6-469D-98E0-501216DFD98A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MapProject/MapViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getProductsFromAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D57D205-43D6-469D-98E0-501216DFD98A - 44d60f0d0f843f32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in MapProject.MapViewModel.getProductsFromAPI() -&gt; ()"
+                  moduleName = "MapProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/swiftUI/MapProjectWithAPI/MapProject/MapViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+               <Location
+                  uuid = "8D57D205-43D6-469D-98E0-501216DFD98A - 725dca0d53ac877"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;MapProject.MapModel&gt;) -&gt; () in MapProject.MapViewModel.getProductsFromAPI() -&gt; ()"
+                  moduleName = "MapProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/swiftUI/MapProjectWithAPI/MapProject/MapViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3575D58E-04F6-48F1-84A2-F0D601573C7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MapProject/MapViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "getProductsFromAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59537E75-A230-4830-A057-8A4311FDF9B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MapProject/MapViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getProductsFromAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "59537E75-A230-4830-A057-8A4311FDF9B6 - 44d60f0d0f843f32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in MapProject.MapViewModel.getProductsFromAPI() -&gt; ()"
+                  moduleName = "MapProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/swiftUI/MapProjectWithAPI/MapProject/MapViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+               <Location
+                  uuid = "59537E75-A230-4830-A057-8A4311FDF9B6 - 725dca0d53ac877"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;MapProject.MapModel&gt;) -&gt; () in MapProject.MapViewModel.getProductsFromAPI() -&gt; ()"
+                  moduleName = "MapProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/swiftUI/MapProjectWithAPI/MapProject/MapViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8B96938-3A78-40A2-BDAD-1C7366852E16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MapProject/MapViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getProductsFromAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
